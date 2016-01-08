@@ -1,0 +1,40 @@
+.row1 {
+    border: 1px solid black;
+    height: 222px;
+    width: 242px;
+    padding: 18px;
+    border-radius: 5px;
+    margin-top: 14px;
+    margin-right: 14px;
+}
+
+#footer {
+    margin-top: 20px;
+}
+
+#text p {
+    display: inline-block;
+    margin-left: 25px;
+    padding: 5px;
+}
+
+#btn {
+    margin-top: 20px;
+    margin-right: 110px;
+}
+
+.shadow-outside {
+    box-shadow: 2px 2px 4px 2px #999;
+}
+
+#search {
+    border: 0;
+    background: lightgreen;
+    border-bottom: 1px solid black;
+}
+
+input[type=search] {
+    border: none;
+    background: none;
+    border-bottom: 3px solid black;
+}
